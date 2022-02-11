@@ -1,11 +1,13 @@
-<h1 align="center">Hola 👋, Soy Rodrigo</h1>
-<h3 align="center">un Junior Developer de Uruguay</h3>
+<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h3 align="center">a Junior Developer from Uruguay</h3>
 
-- 🔭 Actualmente trabajo en **Pastelerìa+Manzo**
+- 🔭 Currently working on **Pastelerìa+Manzo**
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, ReactJS**
 
-- 📫 Mi correo **rodrigoj.manzo@gmail.com**
+- 📫 Reach me at **rodrigoj.manzo@gmail.com**
+
+- ⚡ Fun Fact **Every time a code problem is solved, a baby panda i'ts saved. Every one loves baby pandas. Solve your Codes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
