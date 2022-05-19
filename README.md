@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">a Junior Developer from Uruguay</h3>
 
-- 🔭 Currently working on **Pastelerìa+Manzo**
+- 🔭 Currently learning ReactJS !!
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, ReactJS**
 
